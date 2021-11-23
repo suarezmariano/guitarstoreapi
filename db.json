@@ -7,6 +7,7 @@
       "year": "1997",
       "price": "U$S 1950",
       "color": "White Blonde",
+      "img": "https://i.imgur.com/lf0ZtSk.jpg",
       "description": "Modelo Standard"
     },
     {
@@ -16,6 +17,7 @@
       "year": "1962",
       "price": "U$S 2350",
       "color": "Surf Green",
+      "img": "https://i.imgur.com/cHyJlqr.jpg",
       "description": "Tele Nashville"
     },
     {
@@ -25,6 +27,7 @@
       "year": "1985",
       "price": "U$S 1799",
       "color": "Goldtop",
+      "img": "https://i.imgur.com/BgsALQ8.jpg",
       "description": "Vintage Relic"
     },
     {
@@ -34,6 +37,7 @@
       "year": "1978",
       "price": "U$S 4999",
       "color": "Cherry Red",
+      "img": "https://i.imgur.com/i6PxY7F.jpg",
       "description": "Guitarra Semihueca"
     },
     {
@@ -43,6 +47,7 @@
       "year": "1981",
       "price": "U$S 1999",
       "color": "Sparkle Gold",
+      "img": "https://i.imgur.com/7AP4cjD.jpg",
       "description": "Replica Stratocaster ´57"
     },
     {
@@ -52,6 +57,7 @@
       "year": "1988",
       "price": "U$S 2579",
       "color": "Tobbacco Burst",
+      "img": "https://i.imgur.com/Bf4ov0y.jpg",
       "description": "Estado casi original"
     },
     {
@@ -61,6 +67,7 @@
       "year": "1999",
       "price": "U$S 1199",
       "color": "Cherry Burst",
+      "img": "https://i.imgur.com/WOKSTAc.jpg",
       "description": "Para Entendidos"
     },
     {
@@ -70,6 +77,7 @@
       "year": "2010",
       "price": "U$S 8899",
       "color": "Blue MArine",
+      "img": "https://i.imgur.com/UVnTQG4.jpg",
       "description": "Vintage Finished"
     }
   ]
