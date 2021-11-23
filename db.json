@@ -1,0 +1,76 @@
+{
+  "guitars": [
+    {
+      "id": 1,
+      "brand": "Fender",
+      "model": "Stratocaster",
+      "year": "1997",
+      "price": "U$S 1950",
+      "color": "White Blonde",
+      "description": "Modelo Standard"
+    },
+    {
+      "id": 2,
+      "brand": "Fender",
+      "model": "Telecaster",
+      "year": "1962",
+      "price": "U$S 2350",
+      "color": "Surf Green",
+      "description": "Tele Nashville"
+    },
+    {
+      "id": 3,
+      "brand": "Gibson",
+      "model": "Les Paul",
+      "year": "1985",
+      "price": "U$S 1799",
+      "color": "Goldtop",
+      "description": "Vintage Relic"
+    },
+    {
+      "id": 4,
+      "brand": "Fender",
+      "model": "Coronado",
+      "year": "1978",
+      "price": "U$S 4999",
+      "color": "Cherry Red",
+      "description": "Guitarra Semihueca"
+    },
+    {
+      "id": 5,
+      "brand": "Fender",
+      "model": "Stratocaster",
+      "year": "1981",
+      "price": "U$S 1999",
+      "color": "Sparkle Gold",
+      "description": "Replica Stratocaster ´57"
+    },
+    {
+      "id": 6,
+      "brand": "Gibson",
+      "model": "Les Paul",
+      "year": "1988",
+      "price": "U$S 2579",
+      "color": "Tobbacco Burst",
+      "description": "Estado casi original"
+    },
+    {
+      "id": 7,
+      "brand": "Pensa",
+      "model": "Superstrat",
+      "year": "1999",
+      "price": "U$S 1199",
+      "color": "Cherry Burst",
+      "description": "Para Entendidos"
+    },
+    {
+      "id": 8,
+      "brand": "Fender",
+      "model": "Stratocaster",
+      "year": "2010",
+      "price": "U$S 8899",
+      "color": "Blue MArine",
+      "description": "Vintage Finished"
+    }
+  ]
+}
