@@ -1,6 +1,6 @@
 # guitarstoreapi
 
-### API Created to be used in guitarstore-suarez repository.
+### API created to be used in guitarstore-suarez repository.
 
 Access on: [https://my-json-server.typicode.com/suarezmariano/guitarstoreapi](https://my-json-server.typicode.com/suarezmariano/guitarstoreapi).
 
