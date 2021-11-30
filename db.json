@@ -1,5 +1,4 @@
-{
-  "guitars": [
+[
     {
       "id": 1,
       "brand": "Fender",
@@ -81,4 +80,3 @@
       "description": "Ya tenemos disponible esta Fender Custom Shop Custom Deluxe Stratocaster en acabado Lake Placid Blue del año 2009 en excelentes condiciones, prácticamente sin uso. Tiene una construcción de Alder en el cuerpo, un mango AA Flamed Maple con un perfil '65 C neck shape, Dark Indian Rosewood en el fretboard, un radio de 9.5 y unos trastes 6105. Posee dos pick-ups Custom Shop '69 en el mango y en el middle, y un Texas Special en el puente.Tiene un peso de -7 lbs- 3.17 kilos y se entrega con su estuche Fender Custom Shop Deluxe Case con todos sus papeles correspondientes."
     }
   ]
-}
