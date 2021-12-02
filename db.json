@@ -1,9 +1,9 @@
-{
-  "guitars": [
+[
     {
       "id": 1,
       "brand": "Fender",
       "model": "Stratocaster",
+      "category": "Guitar",
       "year": "2004",
       "price": "U$s 3,990.00",
       "color": "White Blonde",
@@ -14,6 +14,7 @@
       "id": 2,
       "brand": "Fender",
       "model": "Telecaster",
+      "category": "Guitar",
       "year": "2013",
       "price": "U$s 4,990.00",
       "color": "Surf Green",
@@ -24,6 +25,7 @@
       "id": 3,
       "brand": "Gibson",
       "model": "Les Paul",
+      "category": "Guitar",
       "year": "2010",
       "price": "U$s 4,190.00",
       "color": "Goldtop",
@@ -34,6 +36,7 @@
       "id": 4,
       "brand": "Fender",
       "model": "Coronado",
+      "category": "Guitar",
       "year": "1967",
       "price": "U$s 2,790.00",
       "color": "Cherry Red",
@@ -44,6 +47,7 @@
       "id": 5,
       "brand": "Fender",
       "model": "Stratocaster",
+      "category": "Guitar",
       "year": "1996",
       "price": "U$s 5,990.00",
       "color": "Desert Sand",
@@ -54,6 +58,7 @@
       "id": 6,
       "brand": "Gibson",
       "model": "Les Paul",
+      "category": "Guitar",
       "year": "1978",
       "price": "U$s 4,990.00",
       "color": "Tobbacco Burst",
@@ -64,6 +69,7 @@
       "id": 7,
       "brand": "Pensa",
       "model": "MK1",
+      "category": "Guitar",
       "year": "1999",
       "price": "U$s 4,990.00",
       "color": "Cherry Sunburst",
@@ -74,11 +80,11 @@
       "id": 8,
       "brand": "Fender",
       "model": "Stratocaster",
+      "category": "Guitar",
       "year": "2009",
       "price": "U$s 3,290.00",
       "color": "Lake Placid Blue",
       "img": "https://i.imgur.com/UVnTQG4.jpg",
       "description": "Ya tenemos disponible esta Fender Custom Shop Custom Deluxe Stratocaster en acabado Lake Placid Blue del año 2009 en excelentes condiciones, prácticamente sin uso. Tiene una construcción de Alder en el cuerpo, un mango AA Flamed Maple con un perfil '65 C neck shape, Dark Indian Rosewood en el fretboard, un radio de 9.5 y unos trastes 6105. Posee dos pick-ups Custom Shop '69 en el mango y en el middle, y un Texas Special en el puente.Tiene un peso de -7 lbs- 3.17 kilos y se entrega con su estuche Fender Custom Shop Deluxe Case con todos sus papeles correspondientes."
     }
-  ]
-}
+ ]
