@@ -1,26 +1,29 @@
-{"": [{"id": 1,
-  "brand": "Fender",
-  "model": "Stratocaster",
-  "type": "Electrica",
-  "year": "2004",
-  "price": "U$s 3,990.00",
-  "color": "White Blonde",
-  "img": "https://i.imgur.com/lf0ZtSk.jpg",
-  "description": "Fender Stratocaster Relic '56 Custom Shop en un Blonde Thinskin Finish del año 2004 en excelente estado tanto estético como funcional y 100% original. Posee una construcción de Alder seleccionado en el cuerpo, un mango de Maple con un perfil en V con un finish en laca nitrocelulosa, un radio de 7.25, 21 trastes, una escala de 25.5 y un ancho de nut de 1.650."
-},
 {
-  "id": 3,
-  "brand": "Fender",
-  "model": "Telecaster",
-  "type": "Electrica",
-  "year": "2013",
-  "price": "U$s 4,990.00",
-  "color": "Surf Green",
-  "img": "https://i.imgur.com/cHyJlqr.jpg",
-  "description": "En GuitarStore ya tenemos disponible esta Fender Telecaster Custom Shop Reissue 1963 del año 2006 en un particular y encantador Sea Foam Green Finish. Posee una construcción de Alder en el cuerpo, un mango de Maple Mid 60’s Oval C shaped 5/4 quartersawn con un radio de 9.5 y unos trastes medium jumbo. La escala es de 25.5, con un ancho de nut 1.645."
-}
-}
-],"electricas": [
+  "": [
+    {
+      "id": 1,
+      "brand": "Fender",
+      "model": "Stratocaster",
+      "type": "Electrica",
+      "year": "2004",
+      "price": "U$s 3,990.00",
+      "color": "White Blonde",
+      "img": "https://i.imgur.com/lf0ZtSk.jpg",
+      "description": "Fender Stratocaster Relic '56 Custom Shop en un Blonde Thinskin Finish del año 2004 en excelente estado tanto estético como funcional y 100% original. Posee una construcción de Alder seleccionado en el cuerpo, un mango de Maple con un perfil en V con un finish en laca nitrocelulosa, un radio de 7.25, 21 trastes, una escala de 25.5 y un ancho de nut de 1.650."
+    },
+    {
+      "id": 3,
+      "brand": "Fender",
+      "model": "Telecaster",
+      "type": "Electrica",
+      "year": "2013",
+      "price": "U$s 4,990.00",
+      "color": "Surf Green",
+      "img": "https://i.imgur.com/cHyJlqr.jpg",
+      "description": "En GuitarStore ya tenemos disponible esta Fender Telecaster Custom Shop Reissue 1963 del año 2006 en un particular y encantador Sea Foam Green Finish. Posee una construcción de Alder en el cuerpo, un mango de Maple Mid 60’s Oval C shaped 5/4 quartersawn con un radio de 9.5 y unos trastes medium jumbo. La escala es de 25.5, con un ancho de nut 1.645."
+    }
+  ],
+  "electricas": [
     {
       "id": 1,
       "brand": "Fender",
