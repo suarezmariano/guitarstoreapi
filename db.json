@@ -45,28 +45,6 @@
       "description": "En GuitarStore ya tenemos disponible una de nuestras guitarras eléctricas favoritas de los 60's, estamos hablando de esta hermosa Fender Coronado II del año 1967 fabricada en Fullerton, CA. en un hermoso Cherry Red finish, en muy buen estado general, con algunos detalles de uso y 100% funcional. Posee una construcción de Maple en el cuerpo y mango, con una escala de 25.5, una trastera de Rosewood y dos pick-ups DeArmond sonando alucinantes, con el twang y ataque característico de estos mics."
     },
     {
-      "id": 7,
-      "brand": "Fender",
-      "model": "Stratocaster",
-      "type": "Electrica",
-      "year": "1996",
-      "price": "U$s 5,990.00",
-      "color": "Desert Sand",
-      "img": "https://i.imgur.com/7AP4cjD.jpg",
-      "description": "En GuitarStore ya tenemos disponible esta alucinante Fender Stratocaster 1957 Relic de la Vince Cunetto era, uno de los mejores y mas emblemáticos Masterbuilder del Relic dentro de la planta del Custom Shop de Fender, en un Desert Sand finish en excelente estado, tanto estético como funcional y 100% original. Una edición sumamente limitada y coleccionable."
-    },
-    {
-      "id": 8,
-      "brand": "Gibson",
-      "model": "Les Paul",
-      "type": "Electrica",
-      "year": "1978",
-      "price": "U$s 4,990.00",
-      "color": "Tobbacco Burst",
-      "img": "https://i.imgur.com/Bf4ov0y.jpg",
-      "description": "En GuitarStore ya tenemos disponible esta increíble Gibson Les Paul 25/50 en conmemoración al 25 Aniversario de Les Paul y el 50 Aniversario de la carrera de Les Paul como músico y precursor de la marca. Fabricadas únicamente unas 3.411 unidades en el mundo. 1.106 en 1978 y 2.305 en 1979."
-    },
-    {
       "id": 2,
       "brand": "Martin",
       "model": "D21",
@@ -133,28 +111,6 @@
       "color": "Cherry Red",
       "img": "https://i.imgur.com/i6PxY7F.jpg",
       "description": "En GuitarStore ya tenemos disponible una de nuestras guitarras eléctricas favoritas de los 60's, estamos hablando de esta hermosa Fender Coronado II del año 1967 fabricada en Fullerton, CA. en un hermoso Cherry Red finish, en muy buen estado general, con algunos detalles de uso y 100% funcional. Posee una construcción de Maple en el cuerpo y mango, con una escala de 25.5, una trastera de Rosewood y dos pick-ups DeArmond sonando alucinantes, con el twang y ataque característico de estos mics."
-    },
-    {
-      "id": 7,
-      "brand": "Fender",
-      "model": "Stratocaster",
-      "type": "Electrica",
-      "year": "1996",
-      "price": "U$s 5,990.00",
-      "color": "Desert Sand",
-      "img": "https://i.imgur.com/7AP4cjD.jpg",
-      "description": "En GuitarStore ya tenemos disponible esta alucinante Fender Stratocaster 1957 Relic de la Vince Cunetto era, uno de los mejores y mas emblemáticos Masterbuilder del Relic dentro de la planta del Custom Shop de Fender, en un Desert Sand finish en excelente estado, tanto estético como funcional y 100% original. Una edición sumamente limitada y coleccionable."
-    },
-    {
-      "id": 8,
-      "brand": "Gibson",
-      "model": "Les Paul",
-      "type": "Electrica",
-      "year": "1978",
-      "price": "U$s 4,990.00",
-      "color": "Tobbacco Burst",
-      "img": "https://i.imgur.com/Bf4ov0y.jpg",
-      "description": "En GuitarStore ya tenemos disponible esta increíble Gibson Les Paul 25/50 en conmemoración al 25 Aniversario de Les Paul y el 50 Aniversario de la carrera de Les Paul como músico y precursor de la marca. Fabricadas únicamente unas 3.411 unidades en el mundo. 1.106 en 1978 y 2.305 en 1979."
     }
   ],
   "acusticas": [
